@@ -1,3 +1,3 @@
 # Food-Delivery
 
-### Food Delivery is an website developed for you to order a food from a resturant and track your orders at your cart
+### Food Delivery is a simple website developed for you to order food from a restaurant and track your orders in your cart
